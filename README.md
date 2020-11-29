@@ -1,6 +1,7 @@
 # Testing-of-Machine-Learning-Algorithms-for-Lithology-Prediction-from-Well-Log-Data-of-Central-Italy
 Testing of Machine Learning Algorithms for Lithology Prediction from Well Log Data of Central Italy
-ABSTRACT
+#ABSTRACT
+
 A novel supervised machine learning prediction methodology, associated with a standard well-log data representation, is proposed in this work. Supervised-learning algorithms are supplied with training data to learn the relationships between the measurements and classes at which they are assigned. The data sources for this study are represented by well-log data of three wells located to Umbria and Marche regions (central Italy), which have been previously investigated and have litho-facies classes assigned based on stratigraphic and logging data interpretation. The data cover a well-known stratigraphic sequence from Triassic to Pliocene, involving different types of rocks such as evaporites, carbonate and siliciclastic rocks.
 The proposed workflow aims at testing and comparing machine learning algorithms using well-log data and evaluating the opportunity for using machine learning in the field of petrophysics.
 At first statistical analysis of the data was performed before to apply machine learning approach. The results of this analysis show the variance distribution of well-data in the histogram and Pari-plots; the data was analysed to perform Standardization (scaling) in order to fit the data into the algorithm for the training phase.
